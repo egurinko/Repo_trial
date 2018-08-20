@@ -3,3 +3,6 @@ The Rainbow
 Purple
 Pink
 Orange
+
+Bule
+Green
